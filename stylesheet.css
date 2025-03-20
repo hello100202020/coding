@@ -1,0 +1,36 @@
+            .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: pink;
+            }
+           
+ 
+            .section {
+               background-color: hotpink;
+               padding: 20px;
+               margin-top: 30px;
+            }
+
+
+            .movie {
+              background-color: blue;
+              padding: 20px;
+              margin-top: 30px;
+            }
+
+
+
+/*Chat gpt allowed me to enhance my code*/
+img {
+    border: 5px solid #333;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+
+}
+
+img:hover{
+  transform: scale(1.05);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
